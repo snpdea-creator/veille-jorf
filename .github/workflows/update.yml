@@ -1,0 +1,49 @@
+yaml
+name: Mise à jour quotidienne de la veille JORF
+
+on:
+  schedule:
+    - cron: '35 6 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Récupérer les nouveaux textes (DILA + Conseil des ministres)
+        run: |
+          python fetch_cdm.py
+          python weekly_update.py
+
+      - name: Committer les données mises à jour
+        run: |
+          git config user.name "veille-jorf-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json data.js diff_report.json cdm.json
+          git diff --cached --quiet || git commit -m "Mise à jour veille JORF $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Préparer le site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Publier sur GitHub Pages
+        uses: actions/deploy-pages@v4

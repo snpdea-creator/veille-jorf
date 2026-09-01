@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Veille JORF — Enseignement agricole & MASA</title>
+  <meta name="description" content="Surveillance hebdomadaire du Journal officiel : enseignement agricole, EPLEFPA, concours, statuts des personnels et nominations du ministère de l'Agriculture." />
+  <link rel="preconnect" href="https://api.fontshare.com" crossorigin />
+  <link href="https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@400,500,700&f[]=satoshi@300,400,500,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23437a22' d='M12 2L3 7v10l9 5 9-5V7z'/%3E%3C/svg%3E" />
+</head>
+<body>
+  <a class="skip-link" href="#contenu">Aller au contenu</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <svg class="brand-mark" width="34" height="34" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M12 2C7 7 4 11 4 15a8 8 0 0 0 16 0c0-4-3-8-8-13z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+          <path d="M12 22V8M12 14c2-2 4-2 6-2M12 17c-2-2-4-2-6-2" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+        <div class="brand-text">
+          <h1>Veille JORF</h1>
+          <p class="brand-sub">Enseignement agricole · EPLEFPA · MASA</p>
+        </div>
+      </div>
+      <button class="theme-toggle" data-theme-toggle aria-label="Basculer en mode sombre">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+    <div class="header-meta">
+      <div class="meta-left">
+        <span class="dot"></span>
+        <span id="last-update" class="meta-text">Chargement…</span>
+      </div>
+      <p class="scope">Source : Journal officiel (JORF) via Légifrance — le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre.</p>
+    </div>
+  </header>
+
+  <main id="contenu" class="container">
+    <section class="kpi-row" id="kpi-row" aria-label="Indicateurs de la semaine"></section>
+    <p class="kpi-note">Total = textes distincts de la semaine. Les cartes par catégorie comptent les rattachements : un même texte peut relever de plusieurs catégories.</p>
+
+    <section class="controls" aria-label="Filtres et recherche">
+      <div class="control-group">
+        <label for="week-select" class="control-label">Semaine</label>
+        <select id="week-select" class="select"></select>
+      </div>
+      <div class="control-group control-grow">
+        <label for="search" class="control-label">Recherche</label>
+        <input id="search" type="search" class="input" placeholder="Filtrer par titre, mot-clé, NOR, signataire…" autocomplete="off" />
+      </div>
+      <div class="control-group">
+        <span class="control-label">Catégories</span>
+        <div id="cat-chips" class="chips" role="group" aria-label="Filtrer par catégorie"></div>
+      </div>
+    </section>
+
+    <section id="results" class="results" aria-live="polite"></section>
+
+    <p class="empty-note" id="empty-note" hidden>Aucun texte ne correspond à votre filtre pour cette semaine.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="footer-title">À propos de cette veille</p>
+      <p class="footer-text">
+        Tableau de bord de suivi de la réglementation et des ressources humaines, alimenté automatiquement chaque matin du lundi au vendredi à partir des textes publiés au Journal officiel de la République française (JORF) et des comptes-rendus du Conseil des ministres (Élysée). Sont couverts : l'enseignement agricole et les EPLEFPA, les concours du ministère de l'Agriculture, les statuts des personnels (tous corps confondus), les nominations dans les directions, services déconcentrés (DRAAF/DRIAAF) et offices (FranceAgriMer, INRAE, ANSES, ASP, ODEADOM…) — y compris les nominations faites en Conseil des ministres pour le MASA et le ministère de la Transition écologique (MTE) — et les avis de vacance d'emplois de direction (MASA, DDETS/DREETS et DDI avec agents du MASA). Les textes relevant du Bulletin officiel de l'agriculture (BO Agri) ne sont pas inclus.
+      </p>
+      <p class="footer-source">Données : Légifrance (JORF) &amp; comptes-rendus du Conseil des ministres (Élysée) · Flux JORF : legifrss.org (non officiel). Lien vers chaque texte : legifrance.gouv.fr.</p>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+{
+  "run_at": "2026-09-01T06:35:20.993226+00:00",
+  "feeds_succeeded": 1,
+  "feeds_total": 1,
+  "source": "DILA",
+  "new_count": 4,
+  "new_by_category": {
+    "statuts": 2,
+    "nominations": 2
+  },
+  "new_items": [
+    {
+      "title": "Arrêté du 10 août 2026 fixant au titre de l'année 2026 le nombre de postes offerts au concours professionnel pour l'accès au grade de chef technicien de l'environnement",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054782478",
+      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054782478",
+      "date": "2026-09-01",
+      "author": "Ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature",
+      "nature": "ARRETE",
+      "summary": "La ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature et le directeur général de l'Office français de la biodiversité, Vu le code général de la fonction publique ; Vu le décret n° 2001-586 du 5 juillet 2001 modifié portant statut particulier du corps des techniciens de l'environnement ; Vu le décret n° 2009-1388 du 11 novembre 2009 modifié portant dispositions statutaires communes à divers corps de fonctionnaires de la catégori",
+      "categories": [
+        "statuts"
+      ]
+    },
+    {
+      "title": "Arrêté du 10 août 2026 fixant au titre de l'année 2026 le nombre de postes offerts au concours professionnel pour l'accès au grade de technicien supérieur de l'environnement",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054782486",
+      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054782486",
+      "date": "2026-09-01",
+      "author": "Ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature",
+      "nature": "ARRETE",
+      "summary": "La ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature et le directeur général de l'Office français de la biodiversité, Vu le code général de la fonction publique ; Vu le décret n° 2001-586 du 5 juillet 2001 modifié portant statut particulier du corps des techniciens de l'environnement ; Vu le décret n° 2009-1388 du 11 novembre 2009 modifié portant dispositions statutaires communes à divers corps de fonctionnaires de la catégori",
+      "categories": [
+        "statuts"
+      ]
+    },
+    {
+      "title": "Décret du 31 août 2026 portant nomination de la directrice générale de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) - Mme ZALAY (Marion)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054782702",
+      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054782702",
+      "date": "2026-09-01",
+      "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+      "nature": "DECRET",
+      "summary": "Le Président de la République, Sur le rapport du Premier ministre et de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code rural et de la pêche maritime, notamment ses articles L. 621-5 et D. 621-27 ; Vu l'ordonnance n° 58-1136 du 28 novembre 1958 portant loi organique concernant les nominations aux emplois civils et militaires de l'Etat ; Vu le décret n° 59-587 du 29 avril 1959 modifié relatif aux nominations aux emplois de direction de certains ét",
+      "categories": [
+        "nominations"
+      ]
+    },
+    {
+      "title": "Décret du 31 août 2026 portant nomination de la directrice générale de l'enseignement et de la recherche - Mme FAIPOUX (Maud)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054782710",
+      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054782710",
+      "date": "2026-09-01",
+      "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+      "nature": "DECRET",
+      "summary": "Le Président de la République, Sur le rapport du Premier ministre et de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu l'article 13 de la Constitution ; Vu le code général de la fonction publique, notamment ses articles L. 121-1 et R.* 341-1 ; Vu le décret n° 2008-636 du 30 juin 2008 modifié fixant l'organisation de l'administration centrale du ministère chargé de l'agriculture, de l'alimentation, de l'agroalimentaire et de la forêt ; Le Conseil des min",
+      "categories": [
+        "nominations"
+      ]
+    }
+  ],
+  "all_ok": true
+}

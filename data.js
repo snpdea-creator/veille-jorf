@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-09-01T11:05:13.454155+00:00",
+  "generated_at": "2026-09-02T06:41:41.175700+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,42 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W36": [
+      {
+        "title": "Arrêté du 31 août 2026 portant cessation de fonctions au cabinet de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054788541",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054788541",
+        "date": "2026-09-02",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le décret n° 2017-1098 du 14 juin 2017 relatif aux collaborateurs du Président de la République et des membres du Gouvernement ; Vu le décret n° 2024-892 du 23 septembre 2024 modifié relatif à la composition des cabinets ministériels ; Vu le décret du 10 octobre 2025 portant nomination du Premier ministre ; Vu le décret du 12 octobre 2025 relatif à la composition du Gouvernement ; Vu l'arrêté du 20 octobre ",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Arrêté du 1er septembre 2026 portant nomination de la directrice de l'Ecole nationale supérieure du paysage de Versailles (ENSP)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054788549",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054788549",
+        "date": "2026-09-02",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de chef de service, directeur général adjoint (administration centrale)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054788628",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054788628",
+        "date": "2026-09-02",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Arrêté du 10 août 2026 fixant au titre de l'année 2026 le nombre de postes offerts au concours professionnel pour l'accès au grade de chef technicien de l'environnement",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054782478",
@@ -534,6 +570,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 43,
+  "total_texts": 46,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

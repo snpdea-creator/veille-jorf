@@ -1,17 +1,16 @@
-
 name: Mise à jour quotidienne de la veille JORF
 
 on:
   schedule:
-    - cron: '30 6 * * 1-5'
-    - cron: '0 11 * * 1-5'
-  workflow_dispatch: {}
-
+    # 06:35 UTC = 07:35 ou 08:35 heure de Paris selon la saison — du lundi au vendredi
+    - cron: '35 6 * * 1-5'
+  workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet Actions
 
 permissions:
   contents: write
   pages: write
   id-token: write
+  issues: write
 
 concurrency:
   group: pages
@@ -41,6 +40,30 @@ jobs:
           git add data.json data.js diff_report.json cdm.json
           git diff --cached --quiet || git commit -m "Mise à jour veille JORF $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Créer une alerte (issue + email) si nouveaux textes
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'EOF' > issue_body.md
+          import json
+          with open("diff_report.json", encoding="utf-8") as f:
+              d = json.load(f)
+          items = d.get("new_items", [])
+          if items:
+              print(f"**{len(items)} nouveau(x) texte(s)** détecté(s) le {d['run_at'][:10]} :\n")
+              for it in items:
+                  cats = ", ".join(it.get("categories", []))
+                  print(f"- [{it['title']}]({it['url']}) — _{cats}_")
+          EOF
+          if [ -s issue_body.md ]; then
+            COUNT=$(python3 -c "import json; print(json.load(open('diff_report.json'))['new_count'])")
+            gh issue create \
+              --title "Veille JORF — $COUNT nouveau(x) texte(s) ($(date -u +%Y-%m-%d))" \
+              --body-file issue_body.md
+          else
+            echo "Aucun nouveau texte, pas d'alerte créée."
+          fi
 
       - name: Préparer le site
         uses: actions/upload-pages-artifact@v3

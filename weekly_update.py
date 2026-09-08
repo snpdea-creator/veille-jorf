@@ -22,6 +22,7 @@ DATA_JSON = os.path.join(HERE, "data.json")
 DATA_JS = os.path.join(HERE, "data.js")
 DIFF_JSON = os.path.join(HERE, "diff_report.json")
 CDM_JSON = os.path.join(HERE, "cdm.json")
+EXCLUSIONS_JSON = os.path.join(HERE, "exclusions.json")
 
 AGRI_EDU_TERMS = ["enseignement agricole", "eplefpa", "legta", "lpaa", "cfppa", "btsa", "capesa",
     "brevet professionnel agricole", "bac professionnel agricole", "dplp", "ingénieur agronome",
@@ -269,6 +270,19 @@ def main():
         e = fetch_tracked_jorf(jid)
         if e:
             fetched[e["id"]] = e
+            excluded_ids = set()
+       # Liste d'exclusion manuelle (faux positifs retirés définitivement de la veille)         
+    if os.path.exists(EXCLUSIONS_JSON):
+        try:
+            with open(EXCLUSIONS_JSON, encoding="utf-8") as f:
+                for entry in json.load(f):
+                    val = entry.get("id") if isinstance(entry, dict) else entry
+                    if val:
+                        excluded_ids.add(val)
+        except Exception:
+            pass
+    fetched = {k: v for k, v in fetched.items() if k not in excluded_ids}
+            
 
     # Charger l'historique existant
     existing = {"weeks": {}, "categories": CATEGORIES, "total_texts": 0}
@@ -313,6 +327,7 @@ def main():
         try:
             with open(CDM_JSON, encoding="utf-8") as f:
                 cdm_items = json.load(f)
+                cdm_items = [it for it in cdm_items if it["id"] not in excluded_ids]
             for it in cdm_items:
                 it["categories"] = it.get("categories") or ["nominations"]
                 if it["id"] not in old_ids:
@@ -326,6 +341,7 @@ def main():
         all_items.extend(items)
     all_items.extend(fetched_items)
     all_items.extend(cdm_items)
+    all_items = [it for it in all_items if it["id"] not in excluded_ids]
     seen = {}
     for it in all_items:
         seen[it["id"]] = it  # fetched/cdm écrasent existing en cas de doublon

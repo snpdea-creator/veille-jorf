@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-09-08T12:07:28.240983+00:00",
+  "generated_at": "2026-09-09T06:50:44.143523+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -9,6 +9,20 @@ const JO_DATA = {
     "organisation_admin": "Organisation administrative du MASA"
   },
   "weeks": {
+    "2026-W37": [
+      {
+        "title": "Arrêté du 24 août 2026 portant création de l'option « transformation et commercialisation des produits issus de la ferme » du certificat de spécialisation agricole et fixant ses conditions de délivrance",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054811582",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054811582",
+        "date": "2026-09-09",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code rural et de la pêche maritime, notamment ses articles D. 811-167 à D. 811-167-8 ; Vu le code du travail, notamment ses articles R. 4153-41 à R. 4153-45, R. 4323-54 à R. 4323-57 et D. 4153-15 à D. 4153-37 ; Vu l'arrêté du 9 juin 1999 portant création et fixant les conditions de délivrance du certificat de spécialisation « transformation des produits carnés » ; Vu l'arrêté du 9 juin 1999 portant créat",
+        "categories": [
+          "enseignement_agricole"
+        ]
+      }
+    ],
     "2026-W36": [
       {
         "title": "Avis de vacance d'un emploi d'expert de haut niveau",
@@ -582,6 +596,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 47,
+  "total_texts": 48,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

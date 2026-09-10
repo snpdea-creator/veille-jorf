@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T06:50:44.143523+00:00",
+  "generated_at": "2026-09-10T06:51:02.182677+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,66 @@
   },
   "weeks": {
     "2026-W37": [
+      {
+        "title": "Décret n° 2026-851 du 9 septembre 2026 fixant au titre de l'année civile 2026 le coût du formateur dans les établissements d'enseignement agricole privés mentionnés à l'article L. 813-9 du code rural et de la pêche maritime",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054816729",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054816729",
+        "date": "2026-09-10",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "DECRET",
+        "summary": "Publics concernés : établissements d'enseignement agricole privés sous contrat mentionnés à l'article L. 813-9 du code rural et de la pêche maritime. Objet : le décret fixe pour l'année 2026 les paramètres de calcul du coût d'un formateur dans les établissements d'enseignement agricole privés sous contrat offrant des formations à temps plein en conjuguant, selon un rythme approprié, les enseignements théoriques et pratiques dispensés d'une part dans l'établissement même et d'autre part dans le m",
+        "categories": [
+          "enseignement_agricole"
+        ]
+      },
+      {
+        "title": "Arrêté du 26 août 2026 portant nomination de deux personnalités qualifiées au conseil d'administration du Centre national de la propriété forestière (CNPF)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817191",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817191",
+        "date": "2026-09-10",
+        "author": "Ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Arrêté du 7 septembre 2026 modifiant l'arrêté du 12 novembre 2024 portant renouvellement des membres du comité technique permanent de la sélection des plantes cultivées",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817219",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817219",
+        "date": "2026-09-10",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 7 septembre 2026 portant nomination d'une directrice régionale adjointe de l'alimentation, de l'agriculture et de la forêt (Bourgogne-Franche-Comté)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817222",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817222",
+        "date": "2026-09-10",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Arrêté du 8 septembre 2026 portant nomination (administration centrale)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817224",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817224",
+        "date": "2026-09-10",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "Le Premier ministre et la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2019-1594 du 31 décembre 2019 modifié relatif aux emplois de direction de l'Etat ; Vu l'arrêté du 30 septembre 2023 portant nomination d'une sous-directrice (administration centrale) ; Vu la demande de l'intéressée, Arrêtent :",
+        "categories": [
+          "nominations"
+        ]
+      },
       {
         "title": "Arrêté du 24 août 2026 portant création de l'option « transformation et commercialisation des produits issus de la ferme » du certificat de spécialisation agricole et fixant ses conditions de délivrance",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054811582",
@@ -596,6 +656,6 @@
       }
     ]
   },
-  "total_texts": 48,
+  "total_texts": 53,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 }

@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-09-10T12:16:21.731231+00:00",
+  "generated_at": "2026-09-11T06:50:20.768820+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,42 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W37": [
+      {
+        "title": "Décret du 10 septembre 2026 portant nomination de la directrice générale de l'alimentation - Mme LE GAL (Marie-Christine)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054827163",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054827163",
+        "date": "2026-09-11",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "DECRET",
+        "summary": "Le Président de la République, Sur le rapport du Premier ministre et de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu l'article 13 de la Constitution ; Vu le code général de la fonction publique, notamment ses articles L. 121-1 et R.* 341-1 ; Vu le décret n° 2008-636 du 30 juin 2008 modifié fixant l'organisation de l'administration centrale du ministère chargé de l'agriculture, de l'alimentation, de l'agroalimentaire et de la forêt ; Le Conseil des min",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Arrêté du 8 septembre 2026 portant nomination au conseil spécialisé de FranceAgriMer « fruits et légumes »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054827170",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054827170",
+        "date": "2026-09-11",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Arrêté du 9 septembre 2026 portant nomination à la présidence du conseil scientifique de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054827212",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054827212",
+        "date": "2026-09-11",
+        "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
       {
         "title": "Décret n° 2026-851 du 9 septembre 2026 fixant au titre de l'année civile 2026 le coût du formateur dans les établissements d'enseignement agricole privés mentionnés à l'article L. 813-9 du code rural et de la pêche maritime",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054816729",
@@ -644,6 +680,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 52,
+  "total_texts": 55,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

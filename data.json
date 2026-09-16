@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:52:00.756269+00:00",
+  "generated_at": "2026-09-16T06:51:25.590228+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -9,6 +9,68 @@
     "organisation_admin": "Organisation administrative du MASA"
   },
   "weeks": {
+    "2026-W38": [
+      {
+        "title": "Arrêté du 11 septembre 2026 autorisant au titre de l'année 2027 l'ouverture de concours d'accès à la deuxième et à la quatrième catégories des emplois de professeur des établissements d'enseignement agricole privés mentionnés à l'article L. 813-8 du code rural et de la pêche maritime et fixant le nombre de places offertes",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842484",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842484",
+        "date": "2026-09-16",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire et le ministre de l'action et des comptes publics, Vu le code rural et de la pêche maritime, notamment son article L. 813-8 ; Vu le décret n° 89-406 du 20 juin 1989 modifié relatif aux contrats liant l'Etat et les enseignants des établissements mentionnés à l'article L. 813-8 du code rural et de la pêche maritime ; Vu l'arrêté du 9 novembre 1992 modifié fixant les sections et les modalités d'organisation des co",
+        "categories": [
+          "concours"
+        ]
+      },
+      {
+        "title": "Arrêté du 14 septembre 2026 autorisant au titre de l'année 2027 l'ouverture de concours pour le recrutement de conseillers principaux d'éducation des établissements d'enseignement agricole et fixant le nombre de places offertes",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842506",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842506",
+        "date": "2026-09-16",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 90-89 du 24 janvier 1990 modifié relatif au statut particulier des conseillers principaux d'éducation des établissements d'enseignement agricole ; Vu l'arrêté du 8 juillet 2024 fixant les conditions et les modalités de recours à la visioconférence pour l'organisation des voies d'accès à la fonction publique ; Vu l'arrêté du 8 juillet 2026 fixant les ",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 14 septembre 2026 autorisant au titre de l'année 2027 l'ouverture de concours pour le recrutement de professeurs de lycée professionnel agricole et fixant le nombre de places offertes",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842524",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842524",
+        "date": "2026-09-16",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 90-90 du 24 janvier 1990 modifié relatif au statut particulier des professeurs de lycée professionnel agricole ; Vu l'arrêté du 8 juillet 2024 fixant les conditions et les modalités de recours à la visioconférence pour l'organisation des voies d'accès à la fonction publique ; Vu l'arrêté du 8 juillet 2026 fixant les sections et les modalités d'organi",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 14 septembre 2026 autorisant au titre de l'année 2027 l'ouverture de concours pour le recrutement de professeurs certifiés de l'enseignement agricole et fixant le nombre de places offertes",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842542",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842542",
+        "date": "2026-09-16",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 92-778 du 3 août 1992 modifié relatif au statut particulier des professeurs certifiés de l'enseignement agricole ; Vu l'arrêté du 8 juillet 2024 fixant les conditions et les modalités de recours à la visioconférence pour l'organisation des voies d'accès à la fonction publique ; Vu l'arrêté du 8 juillet 2026 fixant les sections et les modalités d'orga",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 10 septembre 2026 portant nomination d'une directrice régionale adjointe de l'alimentation, de l'agriculture et de la forêt (Nouvelle-Aquitaine)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842827",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842827",
+        "date": "2026-09-16",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      }
+    ],
     "2026-W37": [
       {
         "title": "Avis de vacance d'un emploi de chef de service (administration centrale)",
@@ -740,6 +802,6 @@
       }
     ]
   },
-  "total_texts": 60,
+  "total_texts": 65,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 }

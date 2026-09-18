@@ -1,75 +1,10 @@
 {
-  "run_at": "2026-09-17T06:51:29.509166+00:00",
+  "run_at": "2026-09-18T06:49:48.640241+00:00",
   "feeds_succeeded": 1,
   "feeds_total": 1,
   "source": "DILA",
-  "new_count": 5,
-  "new_by_category": {
-    "statuts": 1,
-    "avis_vacance": 2,
-    "nominations": 2
-  },
-  "new_items": [
-    {
-      "title": "Arrêté du 14 septembre 2026 fixant le nombre de places offertes au titre de l'année 2027 aux examens professionnels pour l'avancement aux grades de secrétaire administratif de classe supérieure et de secrétaire administratif de classe exceptionnelle relevant du ministère chargé de l'agriculture",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054850807",
-      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054850807",
-      "date": "2026-09-17",
-      "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
-      "nature": "ARRETE",
-      "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2009-1388 du 11 novembre 2009 modifié portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique de l'Etat ; Vu le décret n° 2010-302 du 19 mars 2010 modifié fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à cer",
-      "categories": [
-        "statuts"
-      ]
-    },
-    {
-      "title": "Arrêté du 15 septembre 2026 portant nomination sur l'emploi de directeur adjoint de l'économie, de l'emploi, du travail et des solidarités de Mayotte, chargé des fonctions de directeur délégué",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054851052",
-      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054851052",
-      "date": "2026-09-17",
-      "author": "Ministère du travail et des solidarités",
-      "nature": "ARRETE",
-      "summary": "Le Premier ministre, le ministre du travail et des solidarités, le ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique, la ministre de la santé, des familles, de l'autonomie et des personnes handicapées et la ministre des outre-mer, Vu le décret n° 2010-1582 du 17 décembre 2010 relatif à l'organisation et aux missions des services de l'Etat dans les départements et les régions d'outre-mer, à Mayotte et à Saint-Pierre-et-Miquelon ; Vu le décret n° 201",
-      "categories": [
-        "avis_vacance"
-      ]
-    },
-    {
-      "title": "Arrêté du 15 septembre 2026 portant nomination (administration centrale)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054851104",
-      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054851104",
-      "date": "2026-09-17",
-      "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
-      "nature": "ARRETE",
-      "summary": "Le Premier ministre et la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2019-1594 du 31 décembre 2019 modifié relatif aux emplois de direction de l'Etat ; Vu l'arrêté du 15 octobre 2023 portant nomination (administration centrale) ; Vu la demande de l'intéressée, Arrêtent :",
-      "categories": [
-        "nominations"
-      ]
-    },
-    {
-      "title": "Arrêté du 11 septembre 2026 portant nomination au conseil d'administration de l'Institut français du cheval et de l'équitation",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054851147",
-      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054851147",
-      "date": "2026-09-17",
-      "author": "Ministère des sports, de la jeunesse et de la vie associative",
-      "nature": "ARRETE",
-      "summary": "",
-      "categories": [
-        "nominations"
-      ]
-    },
-    {
-      "title": "Avis de vacance d'un emploi de chef de service (administration centrale)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054851248",
-      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054851248",
-      "date": "2026-09-17",
-      "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
-      "nature": "AVIS",
-      "summary": "",
-      "categories": [
-        "avis_vacance"
-      ]
-    }
-  ],
+  "new_count": 0,
+  "new_by_category": {},
+  "new_items": [],
   "all_ok": true
 }

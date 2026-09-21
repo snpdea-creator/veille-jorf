@@ -1,10 +1,37 @@
 {
-  "run_at": "2026-09-18T06:49:48.640241+00:00",
+  "run_at": "2026-09-21T06:52:11.711940+00:00",
   "feeds_succeeded": 1,
   "feeds_total": 1,
   "source": "DILA",
-  "new_count": 0,
-  "new_by_category": {},
-  "new_items": [],
+  "new_count": 2,
+  "new_by_category": {
+    "nominations": 2
+  },
+  "new_items": [
+    {
+      "title": "Arrêté du 1er septembre 2026 portant nomination au cabinet de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054860788",
+      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054860788",
+      "date": "2026-09-19",
+      "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+      "nature": "ARRETE",
+      "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le décret n° 2017-1098 du 14 juin 2017 relatif aux collaborateurs du Président de la République et des membres du Gouvernement ; Vu le décret n° 2024-892 du 23 septembre 2024 modifié relatif à la composition des cabinets ministériels ; Vu le décret du 10 octobre 2025 portant nomination du Premier ministre ; Vu le décret du 12 octobre 2025 relatif à la composition du Gouvernement ; Vu l'arrêté du 13 octobre ",
+      "categories": [
+        "nominations"
+      ]
+    },
+    {
+      "title": "Arrêté du 1er septembre 2026 portant nomination au cabinet de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054860796",
+      "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054860796",
+      "date": "2026-09-19",
+      "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+      "nature": "ARRETE",
+      "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le décret n° 2017-1098 du 14 juin 2017 relatif aux collaborateurs du Président de la République et des membres du Gouvernement ; Vu le décret n° 2024-892 du 23 septembre 2024 modifié relatif à la composition des cabinets ministériels ; Vu le décret du 10 octobre 2025 portant nomination du Premier ministre ; Vu le décret du 12 octobre 2025 relatif à la composition du Gouvernement ; Vu l'arrêté du 20 octobre ",
+      "categories": [
+        "nominations"
+      ]
+    }
+  ],
   "all_ok": true
 }

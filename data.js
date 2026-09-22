@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-09-21T06:52:11.711940+00:00",
+  "generated_at": "2026-09-22T06:50:31.118570+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -9,6 +9,56 @@ const JO_DATA = {
     "organisation_admin": "Organisation administrative du MASA"
   },
   "weeks": {
+    "2026-W39": [
+      {
+        "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'économie, de l'emploi, du travail et des solidarités des Pays de la Loire, chargé des fonctions de responsable du pôle « concurrence, consommation, répression des fraudes et métrologie »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054877502",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054877502",
+        "date": "2026-09-22",
+        "author": "Ministère du travail et des solidarités",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur adjoint de l'économie, de l'emploi, du travail et des solidarités de Guadeloupe, chargé des fonctions de responsable du pôle « entreprise, emploi, compétences »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054877511",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054877511",
+        "date": "2026-09-22",
+        "author": "Ministère du travail et des solidarités",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'économie, de l'emploi, du travail et des solidarités des Pays de la Loire, chargé des fonctions de responsable du pôle « concurrence, consommation, répression des fraudes et métrologie »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054877522",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054877522",
+        "date": "2026-09-22",
+        "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur adjoint de l'économie, de l'emploi, du travail et des solidarités de Guadeloupe, chargé des fonctions de responsable du pôle « entreprise, emploi, compétences »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054877531",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054877531",
+        "date": "2026-09-22",
+        "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      }
+    ],
     "2026-W38": [
       {
         "title": "Arrêté du 1er septembre 2026 portant nomination au cabinet de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
@@ -886,6 +936,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 72,
+  "total_texts": 76,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

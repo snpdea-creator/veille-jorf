@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-09-23T06:50:16.412091+00:00",
+  "generated_at": "2026-09-24T06:50:48.567650+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,30 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W39": [
+      {
+        "title": "Arrêté du 18 septembre 2026 portant nomination d'une directrice régionale adjointe de l'alimentation, de l'agriculture et de la forêt (Provence-Alpes-Côte d'Azur)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054888676",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054888676",
+        "date": "2026-09-24",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur de projet (administration centrale)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054889038",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054889038",
+        "date": "2026-09-24",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'économie, de l'emploi, du travail et des solidarités des Pays de la Loire, chargé des fonctions de responsable du pôle « concurrence, consommation, répression des fraudes et métrologie »",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054877502",
@@ -936,6 +960,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 76,
+  "total_texts": 78,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-09-24T06:50:48.567650+00:00",
+  "generated_at": "2026-09-25T06:51:38.934695+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,90 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W39": [
+      {
+        "title": "Arrêté du 23 septembre 2026 autorisant au titre de l'année 2027 l'ouverture d'un concours externe et de concours internes pour le recrutement de techniciens supérieurs du ministère chargé de l'agriculture (recrutement dans le grade de technicien)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054894426",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054894426",
+        "date": "2026-09-25",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2009-1388 du 11 novembre 2009 modifié portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique de l'Etat ; Vu le décret n° 2011-489 du 4 mai 2011 modifié portant statut particulier du corps des techniciens supérieurs du ministère chargé de l'agriculture ; Vu l'arrêté du 26 juillet 2007 fixan",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 23 septembre 2026 autorisant au titre de l'année 2027 l'ouverture de concours externes et internes pour le recrutement de techniciens supérieurs du ministère chargé de l'agriculture (recrutement dans le grade de technicien principal)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054894450",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054894450",
+        "date": "2026-09-25",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2009-1388 du 11 novembre 2009 modifié portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique de l'Etat ; Vu le décret n° 2011-489 du 4 mai 2011 modifié portant statut particulier du corps des techniciens supérieurs du ministère chargé de l'agriculture ; Vu l'arrêté du 26 juillet 2007 fixan",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 23 septembre 2026 portant nomination (administration centrale)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054894886",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054894886",
+        "date": "2026-09-25",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "Le Premier ministre et la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu l'avis de vacance d'un emploi de chef de service publié au Journal officiel de la République française le 28 juin 2026 et sur le site internet Choisir le service public ; Vu la demande de l'intéressée, Arrêtent :",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale de l'emploi, du travail et des solidarités de Vaucluse)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054895117",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054895117",
+        "date": "2026-09-25",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail et des solidarités de la Gironde)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054895148",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054895148",
+        "date": "2026-09-25",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail et des solidarités de la Haute-Savoie)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054895179",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054895179",
+        "date": "2026-09-25",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur régional et interdépartemental adjoint de l'alimentation, de l'agriculture et de la forêt (Ile-de-France)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054895239",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054895239",
+        "date": "2026-09-25",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Arrêté du 18 septembre 2026 portant nomination d'une directrice régionale adjointe de l'alimentation, de l'agriculture et de la forêt (Provence-Alpes-Côte d'Azur)",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054888676",
@@ -960,6 +1044,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 78,
+  "total_texts": 85,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

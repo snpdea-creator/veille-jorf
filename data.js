@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-09-28T06:54:05.168031+00:00",
+  "generated_at": "2026-09-29T06:53:18.216892+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -9,6 +9,44 @@ const JO_DATA = {
     "organisation_admin": "Organisation administrative du MASA"
   },
   "weeks": {
+    "2026-W40": [
+      {
+        "title": "Arrêté du 11 septembre 2026 portant nomination au conseil d'administration de l'Office français de la biodiversité",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909630",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909630",
+        "date": "2026-09-29",
+        "author": "Ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Décret du 28 septembre 2026 portant nomination d'un inspecteur général (groupe I) au Conseil général de l'alimentation, de l'agriculture et des espaces ruraux",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909767",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909767",
+        "date": "2026-09-29",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "DECRET",
+        "summary": "Le Président de la République, Sur le rapport du Premier ministre et de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2022-335 du 9 mars 2022 modifié relatif aux services d'inspection générale ou de contrôle et aux emplois au sein de ces services ; Vu le décret n° 2022-1637 du 23 décembre 2022 relatif à l'organisation et au fonctionnement du Conseil général de l'alimentation, de l'agriculture et",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Arrêté du 17 septembre 2026 portant nomination au cabinet de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909773",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909773",
+        "date": "2026-09-29",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le décret n° 2017-1098 du 14 juin 2017 relatif aux collaborateurs du Président de la République et des membres du Gouvernement ; Vu le décret n° 2024-892 du 23 septembre 2024 modifié relatif à la composition des cabinets ministériels ; Vu le décret du 10 octobre 2025 portant nomination du Premier ministre ; Vu le décret du 12 octobre 2025 relatif à la composition du Gouvernement, Arrête :",
+        "categories": [
+          "nominations"
+        ]
+      }
+    ],
     "2026-W39": [
       {
         "title": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale de l'emploi, du travail et des solidarités de la Charente-Maritime)",
@@ -1068,6 +1106,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 87,
+  "total_texts": 90,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

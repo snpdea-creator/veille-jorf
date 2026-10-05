@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-10-02T06:54:16.436781+00:00",
+  "generated_at": "2026-10-05T15:12:47.970683+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,30 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W40": [
+      {
+        "title": "Arrêté du 1er octobre 2026 portant nomination (administration centrale)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945873",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945873",
+        "date": "2026-10-03",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "Le Premier ministre et la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2019-1594 du 31 décembre 2019 modifié relatif aux emplois de direction de l'Etat ; Vu l'avis de vacance d'un emploi de chef de service publié au Journal officiel de la République française le 2 septembre 2026 et sur le site internet Choisir le service public ; Vu la demande de l'intéressé, Arrêtent :",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Arrêté du 1er octobre 2026 portant nomination du directeur par intérim de l'alimentation, de l'agriculture et de la forêt de La Réunion",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945878",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945878",
+        "date": "2026-10-03",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "Le Premier ministre, la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire et la ministre des outre-mer, Vu le code général de la fonction publique ; Vu le décret n° 2010-1582 du 17 décembre 2010 modifié relatif à l'organisation et aux missions des services de l'Etat dans les départements et les régions d'outre-mer, à Mayotte et à Saint-Pierre-et-Miquelon ; Vu le décret n° 2019-1594 du 31 décembre 2019 relatif aux emplois de direction de l'Etat ; Vu l'avis du préf",
+        "categories": [
+          "nominations"
+        ]
+      },
       {
         "title": "Arrêté du 30 septembre 2026 portant approbation du règlement de l'édition 2027 du concours général agricole",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054938483",
@@ -1334,6 +1358,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 109,
+  "total_texts": 111,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-10-06T13:33:57.838494+00:00",
+  "generated_at": "2026-10-07T13:49:57.218882+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -9,6 +9,32 @@ const JO_DATA = {
     "organisation_admin": "Organisation administrative du MASA"
   },
   "weeks": {
+    "2026-W41": [
+      {
+        "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'économie, de l'emploi, du travail et des solidarités du Centre-Val de Loire, chargé des fonctions de responsable du pôle « concurrence, consommation, répression des fraudes et métrologie »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054956760",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054956760",
+        "date": "2026-10-07",
+        "author": "Ministère du travail et des solidarités",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'économie, de l'emploi, du travail et des solidarités du Centre-Val de Loire, chargé des fonctions de responsable du pôle « concurrence, consommation, répression des fraudes et métrologie »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054956786",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054956786",
+        "date": "2026-10-07",
+        "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      }
+    ],
     "2026-W40": [
       {
         "title": "Arrêté du 1er octobre 2026 portant nomination (administration centrale)",
@@ -1358,6 +1384,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 111,
+  "total_texts": 113,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

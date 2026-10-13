@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-10-12T16:01:05.637140+00:00",
+  "generated_at": "2026-10-13T14:31:36.553958+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -9,6 +9,32 @@ const JO_DATA = {
     "organisation_admin": "Organisation administrative du MASA"
   },
   "weeks": {
+    "2026-W42": [
+      {
+        "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'économie, de l'emploi, du travail et des solidarités des Pays de la Loire, chargé des fonctions de responsable du pôle « entreprises, emploi et compétences »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054977891",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054977891",
+        "date": "2026-10-13",
+        "author": "Ministère du travail et des solidarités",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'économie, de l'emploi, du travail et des solidarités des Pays de la Loire, chargé des fonctions de responsable du pôle « entreprises, emploi et compétences »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054977902",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054977902",
+        "date": "2026-10-13",
+        "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      }
+    ],
     "2026-W41": [
       {
         "title": "Arrêté du 6 octobre 2026 instituant des commissions consultatives paritaires compétentes à l'égard de certains agents contractuels au ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
@@ -1492,6 +1518,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 122,
+  "total_texts": 124,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

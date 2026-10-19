@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-10-16T11:50:53.510125+00:00",
+  "generated_at": "2026-10-19T13:52:17.061571+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,78 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W42": [
+      {
+        "title": "Arrêté du 9 octobre 2026 modifiant l'arrêté du 6 novembre 1992 fixant les conditions d'inscription sur les listes électorales et les modalités des élections à la Commission nationale des enseignants-chercheurs relevant du ministre chargé de l'agriculture",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993461",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993461",
+        "date": "2026-10-18",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique, notamment les sections 6 et 7 du chapitre I er du titre I er du livre II de sa partie réglementaire ; Vu le décret n° 92-171 du 21 février 1992 modifié portant statuts particuliers des corps d'enseignants-chercheurs des établissements d'enseignement supérieur publics relevant du ministre chargé de l'agriculture ; Vu le décret n° 92-172 du 21 février 1992 modifié rela",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 13 octobre 2026 modifiant le Catalogue officiel des espèces et variétés de plantes cultivées en France (semences de céréales à paille)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993606",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993606",
+        "date": "2026-10-18",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code rural et de la pêche maritime, notamment ses articles D. 661-1 à D. 661-11 ; Vu le décret n° 81-605 du 18 mai 1981 modifié pris pour l'application de la loi du 1 er août 1905 sur la répression des fraudes, en ce qui concerne le commerce des semences et plants ; Vu l'arrêté du 27 mars 2026 modifiant le Catalogue officiel des espèces et des variétés de plantes cultivées en France (semences de céréales",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 13 octobre 2026 modifiant le Catalogue officiel des espèces et variétés de plantes cultivées en France (semences de colza et autres crucifères)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993623",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993623",
+        "date": "2026-10-18",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code rural et de la pêche maritime, notamment ses articles D. 661-1 à D. 661-11 ; Vu le décret n° 81-605 du 18 mai 1981 modifié pris pour l'application de la loi du 1 er août 1905 sur la répression des fraudes, en ce qui concerne le commerce des semences et plants ; Vu l'arrêté du 29 janvier 2026 modifiant le Catalogue officiel des espèces et des variétés de plantes cultivées en France (Semences de colza",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 16 octobre 2026 portant nomination d'un chef de service (administration centrale)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993805",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993805",
+        "date": "2026-10-18",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "Le Premier ministre et la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu l'avis de vacance d'un emploi de chef de service publié au Journal officiel de la République française le 29 mai 2026 et sur le site internet Choisir le service public ; Vu la demande de l'intéressé, Arrêtent :",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale de l'emploi, du travail et des solidarités du Pas-de-Calais)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993967",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993967",
+        "date": "2026-10-18",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail et des solidarités de la Drôme)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054992895",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054992895",
+        "date": "2026-10-17",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Arrêté du 11 octobre 2026 homologuant le règlement technique d'examen des variétés de plantes protéagineuses en vue de leur inscription au Catalogue officiel des espèces et variétés de plantes cultivées en France",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988375",
@@ -1614,6 +1686,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 132,
+  "total_texts": 138,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

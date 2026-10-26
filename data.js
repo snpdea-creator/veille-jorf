@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-10-23T12:00:15.140474+00:00",
+  "generated_at": "2026-10-26T13:29:09.859570+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,102 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W43": [
+      {
+        "title": "Arrêté du 15 octobre 2026 modifiant l'arrêté du 10 octobre 2013 fixant les conditions d'inscription sur la liste d'aptitude aux emplois d'agent de direction des organismes de mutualité sociale agricole",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013388",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013388",
+        "date": "2026-10-25",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "Le ministre du travail et des solidarités, la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire et la ministre de la santé, des familles, de l'autonomie et des personnes handicapées, Vu le code de la sécurité sociale, notamment son article R. 123-45 ; Vu l'arrêté du 10 octobre 2013 modifié fixant les conditions d'inscription sur la liste d'aptitude aux emplois d'agent de direction des organismes de mutualité sociale agricole, Arrêtent :",
+        "categories": [
+          "concours"
+        ]
+      },
+      {
+        "title": "Arrêté du 15 octobre 2026 modifiant l'arrêté du 16 décembre 2022 fixant la composition de la commission disciplinaire nationale des praticiens-conseils prévue à l'article D. 723-149 du code rural et de la pêche maritime",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013612",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013612",
+        "date": "2026-10-25",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code rural et de la pêche maritime, notamment ses articles D. 723-149 à D. 723-151 ; Vu l'arrêté du 28 octobre 2020 fixant les règles de fonctionnement et le mode de désignation des membres de la commission disciplinaire nationale des praticiens-conseils prévue à l'article D. 723-149 du code rural et de la pêche maritime ; Vu l'arrêté du 16 décembre 2022 fixant la composition de la commission disciplinai",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'économie, de l'emploi, du travail et des solidarités de Provence-Alpes-Côte d'Azur, chargé des fonctions de responsable du pôle « concurrence, consommation, répression des fraudes et métrologie »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013825",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013825",
+        "date": "2026-10-25",
+        "author": "Ministère du travail et des solidarités",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'économie, de l'emploi, du travail et des solidarités de Provence-Alpes-Côte d'Azur, chargé des fonctions de responsable du pôle « concurrence, consommation, répression des fraudes et métrologie »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013836",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013836",
+        "date": "2026-10-25",
+        "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de chef de service (administration centrale)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013847",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013847",
+        "date": "2026-10-25",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Arrêté du 22 octobre 2026 portant nomination d'une inspectrice (groupe II) au Conseil général de l'alimentation, de l'agriculture et des espaces ruraux",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012451",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012451",
+        "date": "2026-10-24",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "Le Premier ministre et la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2022-335 du 9 mars 2022 modifié relatif aux services d'inspection générale ou de contrôle et aux emplois au sein de ces services ; Vu le décret n° 2022-1637 du 23 décembre 2022 relatif à l'organisation et au fonctionnement du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ; Vu l'arrêté du 28 février 2",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail et des solidarités des Pyrénées-Orientales)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012927",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012927",
+        "date": "2026-10-24",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail et des solidarités de l'Hérault)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012958",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012958",
+        "date": "2026-10-24",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Avis de vacance d'un emploi de directeur régional adjoint de l'alimentation, de l'agriculture et de la forêt (Grand Est)",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055010003",
@@ -1796,6 +1892,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 147,
+  "total_texts": 155,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

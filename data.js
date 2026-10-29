@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-10-28T13:28:12.403149+00:00",
+  "generated_at": "2026-10-29T13:38:45.131005+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,18 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W44": [
+      {
+        "title": "Avis de vacance d'un emploi de sous-directeur",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024290",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024290",
+        "date": "2026-10-29",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Arrêté du 21 octobre 2026 portant retrait de la reconnaissance de l'union de coopératives agricoles (UCA) ALLICOP en qualité d'organisation de producteurs dans le secteur des fruits et légumes",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055020306",
@@ -2026,6 +2038,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 166,
+  "total_texts": 167,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

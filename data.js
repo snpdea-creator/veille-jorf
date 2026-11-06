@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-11-05T14:55:23.709513+00:00",
+  "generated_at": "2026-11-06T13:44:28.006419+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -9,6 +9,56 @@ const JO_DATA = {
     "organisation_admin": "Organisation administrative du MASA"
   },
   "weeks": {
+    "2026-W45": [
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale de l'emploi, du travail, des solidarités et de la protection des populations de la Haute-Marne)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055064492",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055064492",
+        "date": "2026-11-06",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de chargé de mission à temps plein au secrétariat général pour les affaires régionales de la région Hauts-de-France",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055064524",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055064524",
+        "date": "2026-11-06",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail, des solidarités et de la protection des populations de la Dordogne)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055058727",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055058727",
+        "date": "2026-11-05",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale de l'emploi, du travail, des solidarités et de la protection des populations de l'Ardèche)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055058786",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055058786",
+        "date": "2026-11-05",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      }
+    ],
     "2026-W44": [
       {
         "title": "Arrêté du 29 octobre 2026 modifiant le Catalogue officiel des espèces et variétés de plantes cultivées en France (plants de pomme de terre)",
@@ -352,6 +402,18 @@ const JO_DATA = {
         "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail et des solidarités de l'Hérault)",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012958",
         "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012958",
+        "date": "2026-10-24",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale de l'emploi, du travail, des solidarités et de la protection des populations des Alpes-de-Haute-Provence)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012895",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012895",
         "date": "2026-10-24",
         "author": "Ministère de l'intérieur",
         "nature": "AVIS",
@@ -2146,6 +2208,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 176,
+  "total_texts": 181,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

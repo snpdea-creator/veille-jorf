@@ -43,11 +43,16 @@ MASA_SERVICES = ["draaf", "driaaf", "dger", "direction régionale de l'alimentat
 CONCOURS_TERMS = ["concours", "recrutement", "examen professionnel", "jury de concours", "lauréat",
     "calendrier des concours", "ouverture de concours", "liste d'aptitude", "recrutement réservé"]
 # DDETS / DREETS / DRIEETS (directions emploi/travail/solidarités)
-EMPLOI_TRAVAIL_TERMS = ["de l'emploi, du travail et des solidarités",
+EMPLOI_TRAVAIL_TERMS = ["ddetspp", "ddets", "dreets", "drieets",
+    "de l'emploi, du travail, des solidarités et de la protection des populations",
+    "de l'emploi, du travail et des solidarités",
     "direction départementale de l'emploi, du travail et des solidarités",
     "direction de l'emploi, du travail et des solidarités",
     "direction régionale de l'économie, de l'emploi, du travail et des solidarités",
     "direction régionale et interdépartementale de l'économie, de l'emploi, du travail et des solidarités"]
+# Autres structures dont les avis de vacance sont suivis (SGAR = secrétariat général pour les affaires régionales)
+AVIS_AUTRES_TERMS = ["secrétariat général pour les affaires régionales",
+    "secrétariat général aux affaires régionales", "sgar"]
 MASA_MINISTRY_TERMS = ["ministère de l'agriculture", "agro-alimentaire", "souveraineté alimentaire"]
 
 CATEGORIES = {
@@ -184,6 +189,7 @@ def categorize(entry):
     #  OU DDI mentionnant le ministère de l'Agriculture comme tutelle (DDI avec agents du MASA)
     is_avis_vacance = is_vacance_avis and (
         is_masa_service or is_masa_office or is_agri_edu or is_ddets_family or mentions_masa_ministry
+        or has_any(text, AVIS_AUTRES_TERMS)
     )
 
     in_scope = is_masa_author or is_agri_edu or is_masa_office or is_masa_service or is_avis_vacance
@@ -270,8 +276,9 @@ def main():
         e = fetch_tracked_jorf(jid)
         if e:
             fetched[e["id"]] = e
-            excluded_ids = set()
-       # Liste d'exclusion manuelle (faux positifs retirés définitivement de la veille)         
+
+    # Liste d'exclusion manuelle (faux positifs retirés définitivement de la veille)
+    excluded_ids = set()
     if os.path.exists(EXCLUSIONS_JSON):
         try:
             with open(EXCLUSIONS_JSON, encoding="utf-8") as f:
@@ -282,7 +289,6 @@ def main():
         except Exception:
             pass
     fetched = {k: v for k, v in fetched.items() if k not in excluded_ids}
-            
 
     # Charger l'historique existant
     existing = {"weeks": {}, "categories": CATEGORIES, "total_texts": 0}

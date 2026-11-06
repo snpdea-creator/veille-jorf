@@ -34,6 +34,7 @@ SCOPE_KEYS = [
     "draaf", "driaaf", "direction générale de l'enseignement et de la recherche",
     "concours", "recrutement", "statut", "corps", "nomination", "nommant",
     "ddets", "dreets", "drieets", "emploi, du travail et des solidarités",
+    "ddetspp", "avis de vacance", "emploi, du travail, des solidarités et de la protection des populations",
 ]
 SCOPE_RX = re.compile("|".join(re.escape(k) for k in SCOPE_KEYS), re.I)
 

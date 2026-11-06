@@ -2,8 +2,10 @@ name: Mise à jour quotidienne de la veille JORF
 
 on:
   schedule:
-    # 06:35 UTC = 07:35 ou 08:35 heure de Paris selon la saison — du lundi au vendredi
-    - cron: '35 6 * * 1-5'
+    # Heures en UTC. En heure d'hiver (UTC+1) : 07:30 UTC = 8h30 et 12:00 UTC = 13h00 à Paris.
+    # En heure d'été (UTC+2, fin mars à fin octobre), remplacer par '30 6' et '0 11'.
+    - cron: '30 7 * * 1-5'
+    - cron: '0 12 * * 1-5'
   workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet Actions
 
 permissions:
@@ -45,7 +47,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python3 - <<'EOF' > issue_body.md
+          python3 - <<'PYEOF' > issue_body.md
           import json
           with open("diff_report.json", encoding="utf-8") as f:
               d = json.load(f)
@@ -55,7 +57,7 @@ jobs:
               for it in items:
                   cats = ", ".join(it.get("categories", []))
                   print(f"- [{it['title']}]({it['url']}) — _{cats}_")
-          EOF
+          PYEOF
           if [ -s issue_body.md ]; then
             COUNT=$(python3 -c "import json; print(json.load(open('diff_report.json'))['new_count'])")
             gh issue create \

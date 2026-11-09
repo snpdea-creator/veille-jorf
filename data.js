@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-11-09T17:43:45.722510+00:00",
+  "generated_at": "2026-11-09T21:54:14.532718+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",

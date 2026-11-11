@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:16:31.892613+00:00",
+  "generated_at": "2026-11-11T15:30:47.350347+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,66 @@
   },
   "weeks": {
     "2026-W46": [
+      {
+        "title": "Arrêté du 2 novembre 2026 fixant au titre de l'année civile 2026 les taux horaires de prise en charge des heures d'enseignement ou de documentation prévues à l'article R. 813-40 du code rural et de la pêche maritime allouées aux associations et organismes responsables des établissements d'enseignement agricole privés mentionnés à l'article L. 813-8 du code rural et de la pêche maritime",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078378",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078378",
+        "date": "2026-11-11",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire et le ministre de l'action et des comptes publics, Vu le code rural et de la pêche maritime, notamment ses articles R. 813-17 et R. 813-40, Arrêtent :",
+        "categories": [
+          "enseignement_agricole"
+        ]
+      },
+      {
+        "title": "Arrêté du 5 novembre 2026 portant nomination au conseil spécialisé de FranceAgriMer « viandes blanches »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078818",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078818",
+        "date": "2026-11-11",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Arrêté du 5 novembre 2026 portant nomination d'une directrice régionale de l'alimentation, de l'agriculture et de la forêt par intérim (Provence-Alpes-Côte d'Azur)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078820",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078820",
+        "date": "2026-11-11",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur adjoint de l'économie, de l'emploi, du travail et des solidarités de La Réunion, chargé des fonctions de responsable du pôle « politique du travail »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078978",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078978",
+        "date": "2026-11-11",
+        "author": "Ministère du travail et des solidarités",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur adjoint de l'économie, de l'emploi, du travail et des solidarités de La Réunion, chargé des fonctions de responsable du pôle « politique du travail »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078989",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078989",
+        "date": "2026-11-11",
+        "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Avis de vacance d'un emploi de directeur adjoint de l'économie, de l'emploi, du travail et des solidarités de La Réunion, chargé des fonctions de responsable du pôle « entreprises, emploi et solidarités »",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075637",
@@ -2234,6 +2294,6 @@
       }
     ]
   },
-  "total_texts": 183,
+  "total_texts": 188,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 }

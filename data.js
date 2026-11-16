@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-11-13T19:10:44.380023+00:00",
+  "generated_at": "2026-11-16T17:16:37.261971+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,54 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W46": [
+      {
+        "title": "Décision du 13 novembre 2026 modifiant la décision du 11 septembre 2026 portant délégation de signature (direction générale de l'alimentation)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055088764",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055088764",
+        "date": "2026-11-15",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "DECISION",
+        "summary": "La directrice générale de l'alimentation, Vu le décret n° 2005-850 du 27 juillet 2005 modifié relatif aux délégations de signature des membres du Gouvernement, notamment son article 3 ; Vu le décret n° 2008-636 du 30 juin 2008 modifié fixant l'organisation de l'administration centrale du ministère chargé de l'agriculture, de l'alimentation et de la pêche ; Vu le décret du 10 septembre 2026 portant nomination de la directrice générale de l'alimentation - Mme LE GAL (Marie-Christine) ; Vu l'arrêté",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale de l'emploi, du travail, des solidarités et de la protection des populations de la Creuse)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055089076",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055089076",
+        "date": "2026-11-15",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale de l'emploi, du travail et des solidarités du Pas-de-Calais)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055089107",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055089107",
+        "date": "2026-11-15",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
+      {
+        "title": "Arrêté du 12 novembre 2026 portant nomination d'un chef de service (administration centrale)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087930",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087930",
+        "date": "2026-11-14",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "Le Premier ministre et la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu l'avis de vacance d'un emploi de chef de service publié au Journal officiel de la République française le 17 septembre 2026 et sur le site internet Choisir le service public ; Vu la demande de l'intéressé, Arrêtent :",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Arrêté du 3 novembre 2026 modifiant l'arrêté du 11 août 2020 fixant les conditions de recrutement et de formation des praticiens-conseils et des médecins-conseils chefs de service du contrôle médical des régimes agricoles de protection sociale",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055081323",
@@ -2366,6 +2414,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 194,
+  "total_texts": 198,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

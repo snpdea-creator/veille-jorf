@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-11-18T19:56:27.597157+00:00",
+  "generated_at": "2026-11-19T16:43:16.419742+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,42 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W47": [
+      {
+        "title": "Arrêté du 16 novembre 2026 fixant la liste des titres, diplômes et attestations ou qualifications équivalentes admis pour justifier des qualifications en sauvetage aquatique et en secourisme requises des personnels relevant du ministre chargé de l'agriculture et assurant l'enseignement de l'éducation physique et sportive",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055102110",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055102110",
+        "date": "2026-11-19",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code rural et de la pêche maritime ; Vu le décret n° 68-934 du 22 octobre 1968 modifié relatif au recrutement d'agents contractuels pour assurer l'enseignement dans les lycées, collèges et cours professionnels agricoles ainsi que dans les établissements d'enseignement agricole spécialisés de même niveau relevant du ministère de l'agriculture ; Vu le décret n° 89-406 du 20 juin 1989 modifié relatif aux co",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 13 novembre 2026 modifiant l'arrêté du 12 novembre 2024 portant renouvellement des membres du comité technique permanent de la sélection des plantes cultivées",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055102823",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055102823",
+        "date": "2026-11-19",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail, des solidarités et de la protection des populations de l'Yonne)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055103219",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055103219",
+        "date": "2026-11-19",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Décision du 16 novembre 2026 portant délégation de signature (direction générale de l'enseignement et de la recherche)",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055098602",
@@ -2500,6 +2536,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 205,
+  "total_texts": 208,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

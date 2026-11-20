@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T19:55:16.231692+00:00",
+  "generated_at": "2026-11-20T16:18:13.334806+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,42 @@
   },
   "weeks": {
     "2026-W47": [
+      {
+        "title": "Arrêté du 16 novembre 2026 fixant les modalités d'organisation du stage des ingénieurs des ponts, des eaux et des forêts recrutés par la voie du concours interne",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055111593",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055111593",
+        "date": "2026-11-20",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature et la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2021-1556 du 1 er décembre 2021 modifié relatif à l'organisation et au fonctionnement de l'Institut national du service public ; Vu le décret n° 2025-822 du 12 août 2025 modifié portant dispositions statutaires communes et par",
+        "categories": [
+          "statuts"
+        ]
+      },
+      {
+        "title": "Arrêté du 13 novembre 2026 portant nomination du vice-président du conseil spécialisé de FranceAgriMer « vin et cidre »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055112178",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055112178",
+        "date": "2026-11-20",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale de l'emploi, du travail, des solidarités et de la protection des populations de l'Indre)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055112667",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055112667",
+        "date": "2026-11-20",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Arrêté du 16 novembre 2026 fixant la liste des titres, diplômes et attestations ou qualifications équivalentes admis pour justifier des qualifications en sauvetage aquatique et en secourisme requises des personnels relevant du ministre chargé de l'agriculture et assurant l'enseignement de l'éducation physique et sportive",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055102110",
@@ -2536,6 +2572,6 @@
       }
     ]
   },
-  "total_texts": 208,
+  "total_texts": 211,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 }

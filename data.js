@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-11-24T21:54:19.854736+00:00",
+  "generated_at": "2026-11-25T18:06:03.786981+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -9,6 +9,20 @@ const JO_DATA = {
     "organisation_admin": "Organisation administrative du MASA"
   },
   "weeks": {
+    "2026-W48": [
+      {
+        "title": "Arrêté du 17 novembre 2026 portant nomination au conseil spécialisé de FranceAgriMer « fruits et légumes »",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055137993",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055137993",
+        "date": "2026-11-25",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      }
+    ],
     "2026-W47": [
       {
         "title": "Arrêté du 13 novembre 2026 portant ouverture des sessions 2027 du concours commun d'accès dans les écoles nationales vétérinaires et du concours commun d'accès aux enseignements complémentaires conduisant aux diplômes nationaux d'internat des écoles nationales vétérinaires",
@@ -2632,6 +2646,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 216,
+  "total_texts": 217,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

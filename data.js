@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-11-25T21:00:26.787109+00:00",
+  "generated_at": "2026-11-26T17:50:33.223889+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,54 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W48": [
+      {
+        "title": "Arrêté du 21 octobre 2026 relatif à la société coopérative agricole (SCA) DE VERGT (SOCAVE) et modifiant l'arrêté du 30 octobre 1997 portant reconnaissance en qualité d'organisation de producteurs dans le secteur des fruits et légumes",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144146",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144146",
+        "date": "2026-11-26",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles ; Vu le règlement (UE) n° 543/2011 de la Commission du 7 juin 2011 portant modalités d'application du règlement (UE) n° 1308/2013 en ce qui concerne le secteur des fruits et légumes et des fruits et légumes transformés ; Vu le règlement délégué (UE) 2017/891 ",
+        "categories": [
+          "organisation_admin"
+        ]
+      },
+      {
+        "title": "Arrêté du 23 novembre 2026 portant nomination (administration centrale)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144924",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144924",
+        "date": "2026-11-26",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "Le Premier ministre et la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2019-1594 du 31 décembre 2019 modifié relatif aux emplois de direction de l'Etat ; Vu l'arrêté du 25 novembre 2023 portant nomination (administration centrale) ; Vu la demande de l'intéressée, Arrêtent :",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Arrêté du 23 novembre 2026 portant nomination d'un commissaire du Gouvernement suppléant auprès de l'Etablissement public Institut français du cheval et de l'équitation",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144929",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144929",
+        "date": "2026-11-26",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "",
+        "categories": [
+          "nominations"
+        ]
+      },
+      {
+        "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail et des solidarités de l'Oise)",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055145240",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055145240",
+        "date": "2026-11-26",
+        "author": "Ministère de l'intérieur",
+        "nature": "AVIS",
+        "summary": "",
+        "categories": [
+          "avis_vacance"
+        ]
+      },
       {
         "title": "Arrêté du 17 novembre 2026 portant nomination au conseil spécialisé de FranceAgriMer « fruits et légumes »",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055137993",
@@ -2646,6 +2694,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 217,
+  "total_texts": 221,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };

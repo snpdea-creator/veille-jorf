@@ -1,5 +1,5 @@
 const JO_DATA = {
-  "generated_at": "2026-11-26T20:53:28.931202+00:00",
+  "generated_at": "2026-11-27T17:35:42.223671+00:00",
   "categories": {
     "enseignement_agricole": "Enseignement agricole & EPLEFPA",
     "concours": "Concours & recrutements MASA",
@@ -10,6 +10,30 @@ const JO_DATA = {
   },
   "weeks": {
     "2026-W48": [
+      {
+        "title": "Arrêté du 20 novembre 2026 portant création de l'option Agritourisme du certificat de spécialisation agricole et fixant ses conditions de délivrance",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055150484",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055150484",
+        "date": "2026-11-27",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code rural et de la pêche maritime, notamment ses articles D. 811-167 et suivants ; Vu l'arrêté du 9 juillet 2001 portant création du certificat de spécialisation agricole option tourisme vert, accueil et animation en milieu rural et fixant ses conditions de délivrance selon la modalité des unités capitalisables ; Vu l'arrêté du 13 janvier 2014 relatif à la procédure d'habilitation pour la mise en œuvre ",
+        "categories": [
+          "enseignement_agricole"
+        ]
+      },
+      {
+        "title": "Arrêté du 25 novembre 2026 autorisant au titre de l'année 2027 l'ouverture d'un examen professionnel pour l'accès au corps des ingénieurs de l'agriculture et de l'environnement",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055150578",
+        "id": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055150578",
+        "date": "2026-11-27",
+        "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+        "nature": "ARRETE",
+        "summary": "La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire, Vu le code général de la fonction publique ; Vu le décret n° 2004-1105 du 19 octobre 2004 relatif à l'ouverture des procédures de recrutement dans la fonction publique de l'Etat ; Vu le décret n° 2006-8 du 4 janvier 2006 modifié relatif au statut particulier du corps des ingénieurs de l'agriculture et de l'environnement ; Vu l'arrêté du 6 juillet 2006 modifié fixant les modalités de l'examen professionnel pour",
+        "categories": [
+          "statuts"
+        ]
+      },
       {
         "title": "Arrêté du 21 octobre 2026 relatif à la société coopérative agricole (SCA) DE VERGT (SOCAVE) et modifiant l'arrêté du 30 octobre 1997 portant reconnaissance en qualité d'organisation de producteurs dans le secteur des fruits et légumes",
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055144146",
@@ -2694,6 +2718,6 @@ const JO_DATA = {
       }
     ]
   },
-  "total_texts": 221,
+  "total_texts": 223,
   "scope_note": "Journal officiel (JORF) via Légifrance. Le Bulletin officiel du ministère de l'Agriculture (BO Agri) est exclu du périmètre."
 };
